@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
-# Welcome
+# NIKITA RAI
 
-Hello World. Hello Friend.
-
+Design Portfolio
